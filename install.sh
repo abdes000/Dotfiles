@@ -1,7 +1,7 @@
 touch .hushlogin
 touch .vimrc
 sudo apt update && sudo apt upgrade && sudo apt-get update && sudo apt-get upgrade -y 
-sudo apt-get install libtool autoconf automake cmake libncurses5-dev g++ pacman cargo python3-dev python3-pip golang-go openjdk-17-jre-headless lua5.1 lua5.2 lua5.3 lua50 tarntool curl zsh tmux fish terminator neofetch dc ripgrep silversearcher-ag fdclone git xclip build-essential lolcat micro &&
+sudo apt-get install libtool autoconf automake cmake libncurses5-dev g++ pacman cargo python3-dev python3-pip golang-go openjdk-17-jre-headless lua5.1 lua5.2 lua5.3 lua50 tarantool curl zsh tmux fish terminator neofetch dc ripgrep silversearcher-ag fdclone git xclip build-essential lolcat micro &&
 sudo add-apt-repository ppa:neovim-ppa/unstable &&
 sudo apt-get update &&
 sudo apt-get install neovim &&
